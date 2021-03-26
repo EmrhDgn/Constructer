@@ -1,0 +1,13 @@
+C:\Users\emrah\source\repos\Constructer\Constructer\obj\Debug\netcoreapp3.1\Constructer.csprojAssemblyReference.cache
+C:\Users\emrah\source\repos\Constructer\Constructer\obj\Debug\netcoreapp3.1\Constructer.AssemblyInfoInputs.cache
+C:\Users\emrah\source\repos\Constructer\Constructer\obj\Debug\netcoreapp3.1\Constructer.AssemblyInfo.cs
+C:\Users\emrah\source\repos\Constructer\Constructer\obj\Debug\netcoreapp3.1\Constructer.csproj.CoreCompileInputs.cache
+C:\Users\emrah\source\repos\Constructer\Constructer\bin\Debug\netcoreapp3.1\Constructer.exe
+C:\Users\emrah\source\repos\Constructer\Constructer\bin\Debug\netcoreapp3.1\Constructer.deps.json
+C:\Users\emrah\source\repos\Constructer\Constructer\bin\Debug\netcoreapp3.1\Constructer.runtimeconfig.json
+C:\Users\emrah\source\repos\Constructer\Constructer\bin\Debug\netcoreapp3.1\Constructer.runtimeconfig.dev.json
+C:\Users\emrah\source\repos\Constructer\Constructer\bin\Debug\netcoreapp3.1\Constructer.dll
+C:\Users\emrah\source\repos\Constructer\Constructer\bin\Debug\netcoreapp3.1\Constructer.pdb
+C:\Users\emrah\source\repos\Constructer\Constructer\obj\Debug\netcoreapp3.1\Constructer.dll
+C:\Users\emrah\source\repos\Constructer\Constructer\obj\Debug\netcoreapp3.1\Constructer.pdb
+C:\Users\emrah\source\repos\Constructer\Constructer\obj\Debug\netcoreapp3.1\Constructer.genruntimeconfig.cache
